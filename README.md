@@ -1,7 +1,6 @@
 # icup-pvp
 a very very basic open-source pvp client with nothing unique.
 
-"
 # disclaimer:
 - if you download a modified version of this client with a virus, i am not liable for any damages caused.
 
